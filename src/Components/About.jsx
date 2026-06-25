@@ -17,7 +17,7 @@ export default function About() {
           <h2 className="mb-4 text-4xl font-bold  text-amber-700">Sobre mí</h2>
 
           <p className="mb-4 text-lg">
-            Hola, soy Juan Manuel. Me apasiona las computadoras, el desarrollo web,
+            Hola, soy Juan Manuel. Me apasionan las computadoras, el desarrollo web,
             las redes y la tecnología en general.
           </p>
           <p className="mb-4 text-lg">
